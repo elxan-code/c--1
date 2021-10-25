@@ -1,0 +1,66 @@
+1.
+//for (int i = 1; i <= 100; i++)
+//{
+//   Console.WriteLine(i);
+//}
+
+
+2.
+//for (int i = 1; i < 100; i++)
+//{
+//  if (i%2==1)
+//  {
+//      Console.WriteLine(i);
+//  }
+//}
+
+3.
+//int a;
+//a=Convert.ToInt32(Console.ReadLine());
+
+//a = a * 2;
+//Console.WriteLine(a);
+
+
+4.
+//for (int i = 1; i <= 10; i++)
+//{
+//  Console.WriteLine(i);
+//}
+
+
+5.//int sum=0 ;
+//for (int i = 1; i <= 10; i++)
+//{
+//sum = sum + i;
+// Console.WriteLine(sum);
+//}
+//Console.WriteLine("ededlerin cemi " + sum);
+
+
+6.
+//double r , s, p;
+//r=Convert.ToInt32(Console.ReadLine());
+//p = (2 * Math.PI * r);
+//s = (Math.PI * (Math.Pow(r,2)));
+//Console.WriteLine(p);   
+//Console.WriteLine(s);
+
+
+7.
+8.
+
+
+
+9.//String userid = "salam";
+//String password ="saqol" ;
+//for (int i = 2; i >= 0; i--)
+// {
+// Console.WriteLine("user ID");
+//   string userId = Console.ReadLine();
+// Console.WriteLine("password");
+//  string Passwordd= Console.ReadLine();
+
+//}
+
+//Console.WriteLine("you dont login this side");
